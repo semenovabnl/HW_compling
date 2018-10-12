@@ -1,1 +1,0 @@
-.ipynb_checkpoints/SEMINAR_2_Topic_model_BigARTM_HW-checkpoint.ipynb
